@@ -1,0 +1,9 @@
+*{
+    background: #f2f4f7;
+}
+.post {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+}
